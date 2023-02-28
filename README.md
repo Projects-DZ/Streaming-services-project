@@ -10,20 +10,20 @@ Use Python and Tableau to display my data analytics skills and knowledge.
 
 #### Project provides answers to two following questions ####
 
-Question 1:
+##### Question 1: ######
 “Which streaming service should I choose based on my general watching preferences?”
-Answer 1:
+
+##### Answer 1: #####
 ‘Streaming Services Data Analysis’ dashboard provides all important information regarding six different 
 streaming services including Amazon Prime, Disney+, HBO Max, Hulu, Netflix and Paramount+. The dashboard 
 provides information for each individual streaming service such as: Total Movies and Series ratio, 
 Total Movies and Series by genres, Total Movie and Series ratings (from IMDB and TMDB), 
 Total Movies and Series by release year, Parental Guidelines ratings, Total Movies and Series by Country.
 
-
-
-Question 2:
+##### Question 2: #####
 “I want to watch Movies or Series by specific Actor or Director, which streaming service should I choose?”
-Answer 2:
+
+##### Answer 2: #####
 ‘Search Movies or Series by Actor/Director on Streaming services’ dashboard enables you to search 
 Movies or Series titles by specific Actor or Director on six streaming services (Amazon Prime, Disney+, 
 HBO Max, Hulu, Netflix and Paramount+). After selecting specific Actor or Director, list of titles and 
