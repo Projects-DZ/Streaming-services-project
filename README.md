@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------------------------------------------
 
-### Project goals ###
+## Project goals ##
 
 Help people decide which streaming service should they choose based on their preferences.
 
@@ -8,7 +8,7 @@ Use Python and Tableau to display my data analytics skills and knowledge.
 
 ------------------------------------------------------------------------------------------------------------
 
-## Project provides answers to two following questions ##
+#### Project provides answers to two following questions ####
 
 Question 1:
 “Which streaming service should I choose based on my general watching preferences?”
@@ -35,7 +35,7 @@ Number of seasons if applicable and on which streaming services can you find thi
 
 ------------------------------------------------------------------------------------------------------------
 
-### Project steps: ###
+## Project steps: ##
 	1. Download streaming services data in csv format from Kaggle.com
 	2. Import csv files into Python
 	3. Data cleaning and validation in Python by using Pandas and Numpy
