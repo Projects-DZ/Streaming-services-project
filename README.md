@@ -8,7 +8,7 @@ Use Python and Tableau to display my data analytics skills and knowledge.
 
 ------------------------------------------------------------------------------------------------------------
 
-### Project provides answers to two following questions ###
+## Project provides answers to two following questions ##
 
 Question 1:
 “Which streaming service should I choose based on my general watching preferences?”
