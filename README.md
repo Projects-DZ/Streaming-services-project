@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------------------------------------------
 
-##### Project goals ######
+### Project goals ###
 
 Help people decide which streaming service should they choose based on their preferences.
 
