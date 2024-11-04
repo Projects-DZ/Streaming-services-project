@@ -4,23 +4,3 @@ Data is based on Streaming services in US:
 Amazon prime, Disney+, HBO Max, Hulu, Paramount+ on May 2022 and Netflix on July 2022
 
 ------------------------------------------------------------------------------------------------------------
-
-Amazon Prime
-https://www.kaggle.com/datasets/victorsoeiro/amazon-prime-tv-shows-and-movies?select=titles.csv
-
-Disney+
-https://www.kaggle.com/datasets/victorsoeiro/disney-tv-shows-and-movies?select=titles.csv
-
-HBO Max
-https://www.kaggle.com/datasets/victorsoeiro/hbo-max-tv-shows-and-movies?select=titles.csv
-
-Hulu
-https://www.kaggle.com/datasets/victorsoeiro/hulu-tv-shows-and-movies?select=titles.csv
-
-Netflix
-https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies
-
-Paramount+
-https://www.kaggle.com/datasets/victorsoeiro/paramount-tv-shows-and-movies?select=titles.csv
-
-------------------------------------------------------------------------------------------------------------
